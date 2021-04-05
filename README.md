@@ -2,8 +2,8 @@
 
 Projeto criado como teste.
 
-a. Como foi a definição da sua estratégia de modelagem?
-A estratégia incluiu escolher a variável Target como "PRICE" e achar um modelo para fazer as predições.
+a. Como foi a definição da sua estratégia de modelagem? A estratégia incluiu escolher a variável Target como "PRICE" e achar um modelo para fazer as predições.
+
 
 b. Como foi definida a função de custo utilizada?
 Utilizei as variáveis 'room_type', 'accommodates', 'bedrooms', 'beds' como variáveis preditoras.

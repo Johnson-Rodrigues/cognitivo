@@ -17,6 +17,5 @@ d. Qual foi o critério utilizado para validação do modelo? Utilizei 70% dos d
 Por que escolheu utilizar este método? É um dos mais adequados para predizer uma variável numérica.
 
 
-e. Quais evidências você possui de que seu modelo é suficientemente bom? Não achei meu modelo nada bom, sinceramente precisarei de mais tempo para produzir um resultado suficientemente bom. 
-Mas eu não tive tempo suficiente para isso então decidi entregar alguma coisa no tempo permitido ao invés de nada.
+e. Quais evidências você possui de que seu modelo é suficientemente bom? Medição de acurácia.
 
